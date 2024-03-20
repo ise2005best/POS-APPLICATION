@@ -60,7 +60,7 @@ Reports: Java Open PDF Library
 
 User Interface: Graphical User Interface (GUI) library using Java Swing
 
-Author
+### Author
 
 Ariyibi Joseph Iseoluwa
 
